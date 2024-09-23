@@ -1,0 +1,4 @@
+#define WHYIELD_COUNT -1
+#ifdef WHCORO_WORK_START
+WHCORO_WORK_START
+#endif
